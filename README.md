@@ -7,7 +7,7 @@
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg?style=flat-square)](https://github.com/naimulislamsaikat/GYM-Management-System)
 
 ---
-
+<!--
 ## 📋 Table of Contents
 
 - [Overview](#overview)
@@ -28,7 +28,7 @@
 - [License](#license)
 
 ---
-
+-->
 ## 📖 Overview
 
 The **GYM Management System** is an enterprise-level Java application designed to automate and optimize gym operations. This system provides comprehensive solutions for managing gym members, memberships, trainers, classes, equipment, and billing operations through an intuitive user interface.
@@ -290,7 +290,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, issues, or suggestions, feel free to:
 - Open an [Issue](https://github.com/naimulislamsaikat/GYM-Management-System/issues)
-- Contact: [Your Contact Information]
+- Contact: [naimulislam.dev@gmail.com]
 
 ---
 
